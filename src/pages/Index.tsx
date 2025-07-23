@@ -12,7 +12,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <nav className="flex items-center justify-between">
             <div className="text-2xl font-bold text-primary">
-              CORPMЕРCH
+              Purity Мерч
             </div>
             <div className="hidden md:flex space-x-8">
               <a href="#home" className="hover:text-primary transition-colors">Главная</a>
@@ -281,7 +281,7 @@ const Index = () => {
                 <Icon name="Mail" size={32} className="text-primary" />
               </div>
               <h3 className="text-xl font-semibold mb-2">Email</h3>
-              <p className="text-muted-foreground">info@corpmerch.ru</p>
+              <p className="text-muted-foreground">info@puritymerch.ru</p>
               <p className="text-sm text-muted-foreground">Ответим в течение часа</p>
             </div>
 
@@ -290,7 +290,7 @@ const Index = () => {
                 <Icon name="MessageCircle" size={32} className="text-primary" />
               </div>
               <h3 className="text-xl font-semibold mb-2">Telegram</h3>
-              <p className="text-muted-foreground">@corpmerch_bot</p>
+              <p className="text-muted-foreground">@puritymerch_bot</p>
               <p className="text-sm text-muted-foreground">Быстрые ответы 24/7</p>
             </div>
           </div>
@@ -314,7 +314,7 @@ const Index = () => {
       <footer className="py-8 border-t border-border">
         <div className="container mx-auto px-6">
           <div className="text-center text-muted-foreground">
-            <p>&copy; 2024 CORPMЕРCH. Все права защищены.</p>
+            <p>&copy; 2024 Purity Мерч. Все права защищены.</p>
           </div>
         </div>
       </footer>
